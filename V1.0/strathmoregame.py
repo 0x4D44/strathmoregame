@@ -5,7 +5,6 @@
 # An experiment with Github copilot and pygame to create a simple game.
 #
 import pygame
-import pygame.surfarray as surfarray
 import numpy as np
 import sys
 import random  # Add import statement for the random module
